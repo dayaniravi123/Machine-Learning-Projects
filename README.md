@@ -15,3 +15,11 @@ Predict next-day rain by training classification models on the target variable R
 This dataset contains about 10 years of daily weather observations from many locations across Australia.
 
 RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No? This column is Yes if the rain for that day was 1mm or more. 
+
+
+## 3) Live Cell Problem
+-> It's a segmantation problem. 
+### Dataset:
+-> Here, we have gray scale images of the neurons. There are around 610 images for training data and 3 images for the testing.
+-> We have total 3 types of neurons.
+
